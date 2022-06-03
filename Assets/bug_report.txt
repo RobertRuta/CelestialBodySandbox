@@ -1,0 +1,3 @@
+Update function generates incorrect paths for newly created objects whilst paused.
+A quick pause unpause fixes this issue, the newly drawn paths seem to correctly
+demonstrate the bodies paths.
